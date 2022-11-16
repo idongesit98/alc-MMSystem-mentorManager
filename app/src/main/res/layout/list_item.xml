@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <EditText
+            android:id="@+id/tvFileName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="8dp"
+            android:text="My Resume"
+            android:textColor="@color/mms_black_3"
+            android:textSize="12sp" />
+
+        <EditText
+            android:id="@+id/tvChooseFile"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="60dp"
+            android:layout_toEndOf="@+id/tvFileName"
+            android:padding="8dp"
+            android:text="Choose"
+            android:textColor="@color/mms_pry_2"
+            android:textSize="12sp" />
+
+<!--        <EditText-->
+<!--            android:id="@+id/btnRemoveFile"-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_toEndOf="@+id/tvChooseFile"-->
+<!--            android:drawableStart="@drawable/subtractcircleminusremove1"-->
+<!--            android:drawableTint="@color/mms_sec_3"-->
+<!--            android:layout_marginStart="25.25dp"-->
+<!--            android:clickable="true"-->
+<!--            android:padding="8dp"-->
+<!--            android:textColor="@color/mms_pry_2"-->
+<!--            android:textSize="12sp"-->
+<!--            android:focusable="true" />-->
+
+
+    </RelativeLayout>
+
+</LinearLayout>

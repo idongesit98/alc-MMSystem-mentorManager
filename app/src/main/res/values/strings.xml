@@ -1,3 +1,44 @@
 <resources>
-    <string name="app_name">alc-MMSystem-mentorManager</string>
+    <string name="app_name">MMS Mentor Manager</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="set_a_profile_picture">Set a profile picture</string>
+    <string name="btn_select_file">Select file</string>
+
+    <string-array name="Countries">
+        <item>Kenya</item>
+        <item>Nigeria</item>
+        <item>South Africa</item>
+        <item>Egypt</item>
+        <item>Ethiopia</item>
+        <item>Ghana</item>
+    </string-array>
+
+    <string-array name="Cities">
+        <item>Nairobi</item>
+        <item>Lagos</item>
+        <item>Cape Town</item>
+        <item>Cairo</item>
+        <item>Addis Ababa</item>
+        <item>Accra</item>
+    </string-array>
+    <string name="home">home</string>
+    <string name="profile">profile</string>
+    <string name="programs">programs</string>
+    <string name="managers">Managers</string>
+    <string name="tasks">Tasks</string>
+    <string name="reports">reports</string>
+    <string name="mentors">mentors</string>
+    <string name="certificates">certificates</string>
+    <string name="messages">messages</string>
+    <string name="discussion_forums">discussionForums</string>
+    <string name="logout">logout</string>
+    <string name="btm_home">Home</string>
+    <string name="btm_search">Search</string>
+    <string name="btm_program">Program</string>
+    <string name="btm_messages">Messages</string>
+    <string name="btm_profile">Profile</string>
+    <string name="mentor_image">mentorImage</string>
+    <string name="mentor_manager">Mentor Manager</string>
+    <string name="setting_link">settingLink</string>
 </resources>
